@@ -1,184 +1,240 @@
-<div align="center" style="background:#000000;padding:48px 24px;border-radius:18px;border:1px solid #181818">
+<div align="center">
 
-<span style="display:inline-block;width:58px;height:58px;line-height:58px;border-radius:14px;background:#FC3B10;color:#ffffff;font-family:'Audit Sans',Montserrat,sans-serif;font-weight:800;font-size:36px">Z</span>
+# 🔗 ZiiLink
 
-<br><br>
+### **Connecting Businesses in One Platform**
 
-<span style="font-family:'Audit Sans',Montserrat,sans-serif;font-weight:800;font-size:46px;letter-spacing:-1px;color:#ffffff">ZiiLink <span style="color:#FC3B10">AI</span></span>
+*The intelligent network for physical businesses and B2B commerce.*
 
-<br>
+**Get discovered. Get leads. Grow your business.**
 
-<span style="font-family:Montserrat,sans-serif;font-size:17px;color:#FC3B10;font-weight:600">Connecting Businesses in one Platform</span>
+<br/>
 
-<br><br>
+[![Get Started Free](https://img.shields.io/badge/Get%20Started-Free-FC3B10?style=for-the-badge&logoColor=white)](https://www.ziilinkai.com)
+[![Explore Businesses](https://img.shields.io/badge/Explore-Businesses-000000?style=for-the-badge&logoColor=white)](https://www.ziilinkai.com)
 
-<span style="font-family:Montserrat,sans-serif;font-size:23px;color:#f5f5f5;font-weight:500;max-width:640px;display:inline-block">The intelligent network for physical businesses and B2B commerce.</span>
+<br/>
 
-<br><br>
+<sub>✦ Simple outside. Powerful inside. ✦</sub>
 
-<span style="font-family:Montserrat,sans-serif;font-size:15px;color:#a3a3a3">Get discovered. Get leads. Grow your business.</span>
+<br/>
 
-<br><br>
-
-<span style="display:inline-block;background:#FC3B10;color:#ffffff;font-family:Montserrat,sans-serif;font-weight:700;font-size:15px;padding:12px 26px;border-radius:10px">Get Started Free</span>
-&nbsp;&nbsp;&nbsp;
-<span style="display:inline-block;border:1px solid #2b2b2b;color:#ffffff;font-family:Montserrat,sans-serif;font-weight:600;font-size:15px;padding:12px 26px;border-radius:10px">Explore Businesses</span>
-
-<br><br>
-
-<span style="font-family:Montserrat,sans-serif;font-size:13px;color:#6b6b6b">· Simpler outside. Powerful inside. ·</span>
+![Status](https://img.shields.io/badge/MVP-Phase%201%20Live-FC3B10?style=flat-square&labelColor=000000)
+![Market](https://img.shields.io/badge/Launch%20Market-Karachi%2C%20Pakistan-FC3B10?style=flat-square&labelColor=000000)
+![B2B](https://img.shields.io/badge/B2B%20Network-Coming%20Soon-2b2b2b?style=flat-square&labelColor=000000)
+![Theme](https://img.shields.io/badge/Brand-Single%20Dark%20Ground-2b2b2b?style=flat-square&labelColor=000000)
 
 </div>
 
-<br>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-●-FC3B10?style=flat-square" width="20"/>
+  <img src="https://img.shields.io/badge/-●-2b2b2b?style=flat-square" width="20"/>
+  <img src="https://img.shields.io/badge/-●-000000?style=flat-square" width="20"/>
+  <img src="https://img.shields.io/badge/-●-2b2b2b?style=flat-square" width="20"/>
+  <img src="https://img.shields.io/badge/-●-FC3B10?style=flat-square" width="20"/>
+</p>
+
+---
+
+## 📍 ZiiLink at a Glance
+
+**ZiiLink** is digital infrastructure for physical businesses — a **Commerce Operating Network** that connects customers, businesses, products, services, physical locations, leads, and AI across one interoperable local-commerce layer.
+
+It is **not** another marketplace, classifieds site, business-listing clone, or POS system. It's the layer that lets a real shop owner become discoverable, sell what they actually sell, answer customers who are ready to buy, and turn those conversations into a relationship they keep.
+
+<br/>
+
+> **🎯 Strategic thesis**
+>
+> ```
+> ZiiLink = Intent + Business Capability + Trust + Availability
+>           + Physical Commerce + Transaction + Relationship + AI
+> ```
+
+> **🧭 The journey every business walks**
+>
+> ```
+> Discover → Decide → Deal → Do → Remember
+> ```
+
+<br/>
+
+## 🧩 Why ZiiLink Exists
+
+A shop owner has no structured, trustworthy place to be found — and a customer has no reliable way to know who is real, who is nearby, and who actually responds. In most listings, discovery stops at a name, a photo and a number.
+
+ZiiLink turns that broken chain into one connected system:
+
+```mermaid
+flowchart LR
+    A[🏪 Business] --> B[📇 Business Passport]
+    B --> C[📦 Products & Services]
+    C --> D[🔍 Discovery]
+    D --> E[💬 Customer Inquiry]
+    E --> F[🎯 Lead]
+    F --> G[✅ Merchant Response]
+    G --> H[📊 CRM]
+
+    style A fill:#000000,stroke:#FC3B10,color:#fff
+    style B fill:#000000,stroke:#FC3B10,color:#fff
+    style C fill:#000000,stroke:#FC3B10,color:#fff
+    style D fill:#FC3B10,stroke:#FC3B10,color:#fff
+    style E fill:#000000,stroke:#FC3B10,color:#fff
+    style F fill:#FC3B10,stroke:#FC3B10,color:#fff
+    style G fill:#000000,stroke:#FC3B10,color:#fff
+    style H fill:#000000,stroke:#FC3B10,color:#fff
+```
+
+<br/>
+
+## ⚡ How It Works — Three Steps
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 01
+
+**Create your business**
+
+Build your ZiiLink Business Passport in minutes.
+
+</td>
+<td width="33%" align="center">
+
+### 02
+
+**Add products & services**
+
+List exactly what you sell or offer — no ERP-style forms.
+
+</td>
+<td width="33%" align="center">
+
+### 03
+
+**Get discovered, get leads**
+
+Customers find you and reach out directly.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛂 The ZiiLink Business Passport
+
+Every verified business gets a structured **Business Passport** — not just a profile page. It's what a customer can actually trust.
+
+<table>
+<tr><th align="left">Section</th><th align="left">What it carries</th></tr>
+<tr><td>🪪 <b>Identity</b></td><td>Business name, type, category, owner, registration info, contact</td></tr>
+<tr><td>📍 <b>Physical presence</b></td><td>Address, branches, service areas, hours, photos</td></tr>
+<tr><td>🛠️ <b>Capability</b></td><td>Products, services, brands, certifications, industries served</td></tr>
+<tr><td>💳 <b>Commercial</b></td><td>Price range, payment methods & terms, delivery, warranty, returns</td></tr>
+<tr><td>✅ <b>Trust</b></td><td>Verification badges, reviews, response rate & time</td></tr>
+</table>
+
+### 🔒 Trust, Shown Transparently
+
+No mysterious scores. Every signal breaks down into something a customer can understand and a merchant can earn.
+
+| Signal | What it Shows |
+|---|---|
+| 🟢 **Business Verification** | Identity, address, contact, documentation |
+| 🟡 **Commercial Trust** | Response rate, completed transactions, verified reviews |
+| 🔵 **Capability** | Services, brands, certifications, experience |
+| ⚪ **Availability** | `Live` · `Recent` · `Confirmed` · `Unknown` |
+
+---
+
+## 👥 Built for Four Personas
+
+| Persona | Core Need | MVP Status |
+|---|---|:---:|
+| 🙋 **Customer** | Discover businesses, search products & services, contact businesses, submit requirements, track inquiries | ![Live](https://img.shields.io/badge/-Live-FC3B10?style=flat-square) |
+| 🏪 **Merchant** | Register business, create Business Passport, add products & services, receive & manage leads, basic CRM & analytics | ![Live](https://img.shields.io/badge/-Live-FC3B10?style=flat-square) |
+| 🛡️ **Admin** | Manage users & businesses, verify businesses, manage categories, monitor leads & platform activity | ![Live](https://img.shields.io/badge/-Live-FC3B10?style=flat-square) |
+| 🏭 **B2B Buyer / Supplier** | Supplier discovery, RFQs, quotations, procurement | ![Coming Soon](https://img.shields.io/badge/-Coming%20Soon-2b2b2b?style=flat-square) |
+
+---
+
+## 🚀 Coming Soon: ZiiLink B2B Network
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/status-MVP%20%7C%20Phase%201-000000?style=for-the-badge&labelColor=FC3B10&color=000000)
-![Launch Market](https://img.shields.io/badge/launch-Karachi%2C%20Pakistan-000000?style=for-the-badge&labelColor=FC3B10&color=000000)
-![B2B](https://img.shields.io/badge/B2B-Coming%20Soon-000000?style=for-the-badge&labelColor=2b2b2b&color=000000)
-![Dark](https://img.shields.io/badge/brand-single%20dark%20ground-000000?style=for-the-badge&labelColor=2b2b2b&color=000000)
+**Find suppliers · Create RFQs · Receive quotations · Compare suppliers**
+
+The B2B network is in the works — this is teaser messaging only until it ships.
+
+[![Join the Waitlist](https://img.shields.io/badge/Join%20the-B2B%20Waitlist-FC3B10?style=for-the-badge)](https://www.ziilinkai.com)
 
 </div>
 
 ---
 
-## ZiiLink at a glance
+## 🚫 What ZiiLink Is Not Building (Yet)
 
-**ZiiLink** is digital infrastructure for physical businesses — a Commerce
-Operating Network that connects customers, businesses, products, services,
-physical locations, leads, and AI across one interoperable local-commerce
-layer.
+Scope discipline is part of the product. We don't depict features as live until they are.
 
-It is **not** another marketplace, classifieds site, business-listing clone, or
-POS system. It is the layer that lets a real shop owner become discoverable, sell
-what they actually sell, answer customers who are ready to buy, and turn those
-conversations into a business relationship they keep.
-
-> **The strategic thesis:**
-> `ZiiLink = Intent + Business Capability + Trust + Availability + Physical Commerce + Transaction + Relationship + AI`
->
-> **The journey every business walks:** `Discover → Decide → Deal → Do → Remember`
+- ❌ A full payment gateway or digital wallet — ZiiLink **integrates with regulated providers** (e.g. Raast) instead of building its own rail
+- ❌ A complex loyalty engine, full ERP/POS, or an owned delivery fleet
+- ❌ Advanced/autonomous procurement and a complex B2B marketplace
+- ❌ Customer credit scoring, cryptocurrency, or a generic social network
+- ❌ Complex autonomous AI agents — AI is layered in deliberately, as assistance, not autopilot
 
 ---
 
-## Why ZiiLink exists
+## 🎨 Design & Brand
 
-A shop owner has no structured, trustworthy place to be found — and a customer
-has no reliable way to know who is real, who is nearby, and who actually
-responds. In most listings, discovery stops at a name, a photo and a number.
+ZiiLink has one visual system, enforced from a single governed brand record. **Simple outside, powerful inside** — a merchant never feels like they're using an ERP, and a customer never feels like they're filling out forms.
 
-ZiiLink makes the whole journey one system:
-
-```
-BUSINESS → BUSINESS PASSPORT → PRODUCTS & SERVICES → DISCOVERY → CUSTOMER INQUIRY → LEAD → MERCHANT RESPONSE → CRM
-```
-
-## How it works — three steps
-
-1. **Create your business** — build your ZiiLink Business Passport.
-2. **Add products & services** — list what you sell or offer.
-3. **Get discovered and receive leads** — customers find you and reach out.
-
----
-
-## The ZiiLink Business Passport
-
-Every verified business gets a structured **Business Passport** — not just a
-profile page. It is what a customer can actually trust:
-
-| Section | What it carries |
-|---|---|
-| **Identity** | Business name, type, category, owner, registration info, contact |
-| **Physical presence** | Address, branches, service areas, hours, photos |
-| **Capability** | Products, services, brands, certifications, industries served |
-| **Commercial** | Price range, payment methods & terms, delivery, warranty, return policy |
-| **Trust** | Verification badges, reviews, response rate & time |
-
-### Trust, shown transparently
-
-No mysterious scores. Every signal breaks down into something a customer can
-understand and a merchant can earn:
-
-| Signal | What it shows |
-|---|---|
-| **Business Verification** | Identity, address, contact, documentation |
-| **Commercial Trust** | Response rate, completed transactions, verified reviews |
-| **Capability** | Services, brands, certifications, experience |
-| **Availability** | <span style="color:#2ecc71">Live</span> · <span style="color:#e6c860">Recent</span> · <span style="color:#3b82f6">Confirmed</span> · <span style="color:#7a7a7a">Unknown</span> |
-
----
-
-## Built for four personas
-
-| Persona | Core need | MVP status |
-|---|---|---|
-| **Customer** | Discover businesses, search products & services, contact businesses, submit requirements, track inquiries | Fully functional |
-| **Merchant** | Register business, create Business Passport, add products & services, receive & manage leads, basic CRM & analytics | Fully functional |
-| **Admin** | Manage users & businesses, verify businesses, manage categories, monitor leads & platform activity | Fully functional |
-| **B2B Buyer / Supplier** | Supplier discovery, RFQs, quotations, procurement | Architected now · **Coming Soon** |
-
----
-
-## Coming soon: ZiiLink B2B Network
-
-Find suppliers, create RFQs, receive quotations, and compare suppliers — the
-B2B network is in the works and is teaser messaging only until it ships. Joining
-the waitlist keeps you first in line when procurement opens.
-
-<span style="display:inline-block;border:1px solid #2b2b2b;color:#ffffff;font-family:Montserrat,sans-serif;font-weight:600;background:#000000;font-size:14px;padding:10px 22px;border-radius:10px">Join the B2B Waitlist →</span>
-
-## What ZiiLink is <span style="color:#FC3B10">not</span> building (yet)
-
-Scope discipline is part of the product. We do not depict features as live until
-they are. Out of the current phase:
-
-- A full payment gateway or digital wallet — ZiiLink **integrates with regulated
-  providers** (e.g. Raast) instead of building its own rail
-- A complex loyalty engine, full ERP/POS, or an owned delivery fleet
-- Advanced/autonomous procurement and a complex B2B marketplace
-- Customer credit scoring, cryptocurrency, or a generic social network
-- Complex autonomous AI agents — AI is layered in deliberately, as assistance,
-  not autopilot
-
----
-
-## Design & brand
-
-ZiiLink has one visual system, enforced from a single governed brand record.
-Simple outside, powerful inside — a merchant never feels like they are using an
-ERP, and a customer never feels like they are filling out forms.
+<div align="center">
 
 | Token | Value | Use |
-|---|---|---|
-| **Primary** | <code style="color:#FC3B10">#FC3B10</code> | CTAs, brand accents, key highlights, logo mark |
-| **Ground** | <code>#000000</code> | The one brand ground — there is no light theme |
-| **Text** | <code>#FFFFFF</code> | Running text |
-| **Surface** | lifted greys | Cards, panels, sidebar, popovers |
+|---|:---:|---|
+| **Primary** | `#FC3B10` 🟧 | CTAs, brand accents, key highlights, logo mark |
+| **Ground** | `#000000` ⬛ | The one brand ground — there is no light theme |
+| **Text** | `#FFFFFF` ⬜ | Running text |
+| **Surface** | lifted greys ◽ | Cards, panels, sidebar, popovers |
+
+</div>
 
 - **Display / headings:** Audit Sans — the distinctive brand voice
 - **Body / UI:** Montserrat
-- **Feel:** Fast, premium, trustworthy, modern, simple, professional
+- **Feel:** Fast · Premium · Trustworthy · Modern · Simple · Professional
 
 ---
 
-## Roadmap (honest)
+## 🗺️ Roadmap (Honest)
 
-| Phase | What it delivers |
-|---|---|
-| **MVP · Phase 1** | Customer discovery, Merchant passports & leads with CRM, Admin verification — live |
-| **Next** | ZiiLink **B2B Network** — RFQs, quotations, supplier comparison *(coming soon)* |
-| **Later** | Transaction layer over regulated rails, loyalty, AI-assisted workflows — architected, not yet built |
+```mermaid
+flowchart TD
+    P1["✅ MVP · Phase 1\nCustomer discovery · Merchant passports & leads with CRM · Admin verification\n(LIVE)"]
+    P2["🔜 Next\nZiiLink B2B Network — RFQs, quotations, supplier comparison\n(COMING SOON)"]
+    P3["🔭 Later\nTransaction layer over regulated rails · Loyalty · AI-assisted workflows\n(ARCHITECTED, NOT YET BUILT)"]
+
+    P1 --> P2 --> P3
+
+    style P1 fill:#FC3B10,stroke:#FC3B10,color:#fff
+    style P2 fill:#000000,stroke:#FC3B10,color:#fff
+    style P3 fill:#2b2b2b,stroke:#FC3B10,color:#fff
+```
 
 ---
 
-*Every claim on this page comes from ZiiLink's governed brand and product
-record. We would rather say "coming soon" than overstate what is live.*
+<div align="center">
 
-<div align="center" style="background:#000000;padding:28px 24px;border-radius:14px;border:1px solid #181818;margin-top:8px">
+<sub>Every claim on this page comes from ZiiLink's governed brand and product record.<br/>We would rather say "coming soon" than overstate what is live.</sub>
 
-<span style="font-family:'Audit Sans',Montserrat,sans-serif;font-weight:800;font-size:20px;color:#FC3B10">ZiiLink</span>
-&nbsp;
-<span style="font-family:Montserrat,sans-serif;font-size:14px;color:#6b6b6b">Connecting Businesses in one Platform</span>
+<br/><br/>
+
+### **ZiiLink**
+*Connecting Businesses in One Platform*
+
+[Website](https://www.ziilinkai.com) · [LinkedIn](https://www.linkedin.com/in/ziilinkai/) · [X](https://x.com/ZiilinkAI) · [Instagram](https://www.instagram.com/ziilinkai/) · [Facebook](https://www.facebook.com/profile.php?id=61594409461411)
 
 </div>
